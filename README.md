@@ -12,18 +12,8 @@ This repository contains the analysis and visualizations of coffee sales data us
   
 ## Project Overview
 
-This project involves cleaning and modified and implying data and worksheets in Excel to join 2 tables and import to Tableau to analyze coffee sales data. I have created worksheets to filter data and 
-perform in-depth analysis, identifying main sales patterns including trends by year and type, and presenting the results through various Tableau visualizations based on countries and other factors as well.
-including trends by year and type, and presenting the results through various Tableau visualizations and dashboards.
+This project involves cleaning and modifying data in Excel, joining two tables, and preparing the data for import into Tableau. I created worksheets to filter and analyze coffee sales data, identifying key sales patterns, including trends by year and type. The results are presented through various Tableau visualizations and dashboards, incorporating factors such as countries and other relevant criteria as well.
 
 ## Tableau Dashboard
 
-Explore the interactive Tableau dashboard online at [Coffee Sales Dashboard](https://your-tableau-dashboard-link).
-
-## License
-
-Specify the license under which the project is distributed (e.g., MIT, GPL).
-
-## Contact
-
-For any questions or feedback, please contact [Your Name] at [Your Email].
+Explore the interactive Tableau dashboard online at [Coffee Sales _Tableau_Dashboard](https://tabsoft.co/3yt92zV).
