@@ -4,7 +4,7 @@ This repository contains the analysis and visualizations of Coffee Bean Sales Da
 
 ## Project Overview
 
-This project involves cleaning and modifying data in Excel, joining two tables, and preparing the data for import into Tableau. I created worksheets to filter and analyze coffee sales data, identifying key sales patterns, including trends by year and type. The results are presented through various Tableau visualizations and dashboards, incorporating factors such as countries and other relevant criteria as well.
+This project involves cleaning and modifying data in Excel, joining two tables, and preparing the data for import into Tableau. I created worksheets to filter and analyze coffee sales data, identifying key sales patterns, including trends by year and type. The results are presented through various Tableau visualizations, incorporating factors such as countries and other relevant criteria as well.
 
 ## Files Included
 
