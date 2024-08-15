@@ -1,4 +1,4 @@
-# Coffee Bean Sales Analysis and Visualization in Tableau
+# Coffee Bean Sales Analysis and Visualization
 
 This repository contains the analysis and visualizations of Coffee Bean Sales Data using Tableau.
 
