@@ -17,7 +17,7 @@ This project involves cleaning and modifying data in Excel, joining two tables, 
 
 ## Tableau Dashboard
 
-Explore the interactive Tableau dashboard online at [Coffee Sales _Tableau_Dashboard](https://tabsoft.co/3WOqeck).
+Explore the interactive Tableau dashboard online at [Coffee Sales _Tableau_Dashboard](https://public.tableau.com/app/profile/keerthi.kankanala/viz/TableauSalesDataAnalysis_17226254164510/Dashboard3?publish=yes).
 
 
 [![Tableau_Dashboard](Tableau_Dashboard.png)](Tableau_Dashboard.png)
