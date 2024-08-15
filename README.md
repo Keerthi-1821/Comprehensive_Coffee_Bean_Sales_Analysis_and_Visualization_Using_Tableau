@@ -1,6 +1,10 @@
-# Coffee Sales Analysis and Visualization
+# Coffee Bean Sales Analysis and Visualization in Tableau
 
-This repository contains the analysis and visualizations of coffee sales data using Tableau.
+This repository contains the analysis and visualizations of Coffee Bean Sales Data using Tableau.
+
+## Project Overview
+
+This project involves cleaning and modifying data in Excel, joining two tables, and preparing the data for import into Tableau. I created worksheets to filter and analyze coffee sales data, identifying key sales patterns, including trends by year and type. The results are presented through various Tableau visualizations and dashboards, incorporating factors such as countries and other relevant criteria as well.
 
 ## Files Included
 
@@ -10,9 +14,6 @@ This repository contains the analysis and visualizations of coffee sales data us
 
 - `Analysis_and_Visualization_of_Coffee_Sales.twbx`: The Tableau workbook includes multiple visualizations and a dashboard.
   
-## Project Overview
-
-This project involves cleaning and modifying data in Excel, joining two tables, and preparing the data for import into Tableau. I created worksheets to filter and analyze coffee sales data, identifying key sales patterns, including trends by year and type. The results are presented through various Tableau visualizations and dashboards, incorporating factors such as countries and other relevant criteria as well.
 
 ## Tableau Dashboard
 
